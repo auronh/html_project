@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    background-color: #DAFFFB;
+}
+.container{
+    width: 60%;
+    margin: auto;
+    border: black solid 4px;
+}
+table{
+    width: 100%;
+    padding: 10px 20px;
+}
+
+#nav{
+    background-color: #04364A;
+    color: whitesmoke;
+}
+#intro{
+    background-color: #176B87;
+    color: whitesmoke;
+    text-align: center;
+}
+.content{
+    background-color: #2f97b9;
+}
+.title{
+    text-align: center;
+}
+#contacts li{
+    list-style-type: none;
+}
+#hobbies img{
+    height: 250px;
+}
+form input{
+    width: 300px;
+    height: 30px;
+}
+form button{
+    width: 100px;
+    height: 25px;
+}
+li{
+    margin: 10px 0;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+hr{
+    margin-bottom: 20px;
+}
