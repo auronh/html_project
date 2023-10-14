@@ -16,6 +16,7 @@ table{
     background-color: #04364A;
     color: whitesmoke;
 }
+
 #intro{
     background-color: #176B87;
     color: whitesmoke;
@@ -47,6 +48,11 @@ li{
 a{
     text-decoration: none;
     color: whitesmoke;
+    padding: 10px;
+}
+a:hover{
+    background-color: #2f97b9;
+    color: black;
 }
 hr{
     margin-bottom: 20px;
